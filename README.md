@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there 👋 
+I'm Joseph Talon. I am currently an Engineering Systems & Computing student at the University of Guelph and I love to work on applications using web technologies. Here you can see in detail the side projects I have worked on
+
+You can also [checkout my portfolio](https://josephtalon.ca)
+
+## Featured Project
+### Cratis
+<img src="https://cdn.josephtalon.ca/images/Cratis/icon.png" width="100px" />
+
+[Cratis](https://github.com/cratis-app/cratis) is a bi-directional outliner built using Tauri and SvelteKit. You can create notes using markdown, link to other notes, and view all your notes and their connections in a network graph.
+
+Cratis also uses SQLite as a local database for holding information on your network of notes.
 
 <!--
 **jostal/jostal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
