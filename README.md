@@ -14,7 +14,7 @@ Cratis also uses SQLite as a local database for holding information on your netw
 ### Dashboard
 <img src="https://cdn.josephtalon.ca/images/portfolio/icons/dashboard.png" width="100px" />
 
-[Dashboard](https://github.com/jostal/dashboard) is a customizable homepage for your browser. You can add shortcuts with custom icons, rearrange the shortcuts, select your search engine, change the background, and more.
+[Dashboard](https://github.com/jostal/browser-dashboard) is a customizable homepage for your browser. You can add shortcuts with custom icons, rearrange the shortcuts, select your search engine, change the background, and more.
 
 Dashboard was developed using SvelteKit and Supabase/PostgreSQL.
 
